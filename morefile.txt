@@ -1,2 +1,2 @@
 password = 100000
-wifi_password = ádgadfsd
+wifi_password = abcd
