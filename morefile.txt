@@ -1,2 +1,2 @@
 password = 100000
-wifi_password = abcd
+wifi_password = omg
