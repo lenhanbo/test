@@ -1,1 +1,2 @@
 password = 100000
+wifi_password = 647473
